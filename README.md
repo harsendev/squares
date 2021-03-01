@@ -1,3 +1,2 @@
-# squares
-loading squares animation
+# link
  https://poluninme.github.io/squares/
