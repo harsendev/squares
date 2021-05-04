@@ -1,2 +1,2 @@
 # link
- https://poluninme.github.io/squares/
+https://polunin.me/
