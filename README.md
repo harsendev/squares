@@ -1,2 +1,2 @@
 # link
-https://polunin.me/
+https://harsendev.github.io/squares/
